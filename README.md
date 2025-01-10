@@ -1,0 +1,1 @@
+A simple hotel website created in html,css and javascript for the frontend 
